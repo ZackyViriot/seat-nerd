@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import LandingPage from './Pages/Home/LandingPage';
+import LandingPage from './Pages/LandingPage/LandingPage';
 
 
 function App() {
